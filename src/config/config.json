@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "usuario",
+    "password": "12345",
+    "database": "gestion_ingresos_gastos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "usuario",
+    "password": "12345",
+    "database": "gestion_ingresos_gastos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "usuario",
+    "password": "12345",
+    "database": "gestion_ingresos_gastos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
